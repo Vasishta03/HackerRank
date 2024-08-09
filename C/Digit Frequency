@@ -5,7 +5,6 @@
 
 int main() {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
     char s[1000];
     int freq[10] = {0}; 
 
